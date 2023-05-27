@@ -2,7 +2,11 @@
 
 ![image](https://github.com/rhythmbhavsar/HackerRank/assets/98228696/0c79689f-b6dc-44b8-ad33-2531d3e0ff2c)
 
-## [1-10 HackerRank .ipynb]([https://link-url-here.org](https://github.com/rhythmbhavsar/HackerRank/blob/master/1-10%20HackerRank%20.ipynb))
+## [1-10 HackerRank .ipynb]([https://github.com/rhythmbhavsar/HackerRank/blob/master/1-10%20HackerRank%20.ipynb])
+
+[Click Here for Notebook](https://github.com/rhythmbhavsar/HackerRank/blob/master/1-10%20HackerRank%20.ipynb)
+
+
 Q1 Arithmetic Operators
 
 Q2 Python: Division
